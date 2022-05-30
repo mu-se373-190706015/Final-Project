@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OldPeopleAppp</string>
+    <string name="prompt_email">E-mail </string>
+    <string name="sifre">Sifre</string>
+    <string name="action_sign_in_short" />
+    <string name="kaydol">Kaydol</string>
+    <string name="sifremi_unuttum">Sifremi unuttum</string>
+    <string name="kaydet_ana_sayfaya_ge_i_yap"><![CDATA[Kaydet&Ana Sayfaya Geçiş Yap]]></string>
+    <string name="add_item">add item</string>
+    <string name="add">Ekle</string>
+    <string name="delete">Sil</string>
+    <string name="to_do_list">Yapılacaklar Listesi</string>
+    <string name="error">error</string>
+    <string name="schedule_notification">Hatırlatıcıyı oluştur</string>
+    <string name="message">İlaçını İç</string>
+    <string name="title">İlaç adı gir</string>
+</resources>
