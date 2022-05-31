@@ -5,10 +5,15 @@ Customer logins the App ,customer Information  displays afther login process.And
 In the Medicine Remember System You can write your medicines and System set a local notification When you write a time Mobile Device will send a local notification for you.
 To do List app You can write daily activities.And You can manage your day easily!.In Emergency situation you can contact easily with emergency numbers.
 Uses Cases Are:
+
 Customer Login app 
+
 Customer displays the self-İnfos
+
 Customer set up a reminder system
+
 Customer manages to the to do list system
+
 Customer easily call the emergency numbers
 
 
