@@ -10,6 +10,10 @@ Customer displays the self-İnfos
 Customer set up a reminder system
 Customer manages to the to do list system
 Customer easily call the emergency numbers
+
+
+
+
 Welcome Page
 ![image](https://user-images.githubusercontent.com/101176588/171105868-f5039c82-f227-4a11-b53a-cdd6ab04b0aa.png)
 
